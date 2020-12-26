@@ -105,7 +105,7 @@
    <POPUP w="695" x="328" flags="00000000" y="377" h="459" pid="0" iid="4">
     <PROPERTIES/>
    </POPUP>
-   <POPUP w="647" x="1111" flags="00008023" y="461" h="250" pid="0" iid="9">
+   <POPUP w="747" x="1003" flags="00008023" y="598" h="339" pid="0" iid="9">
     <PROPERTIES>
      <ITEM name="AutoEcho">0</ITEM>
      <ITEM name="HexMode">0</ITEM>
